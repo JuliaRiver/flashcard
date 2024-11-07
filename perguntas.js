@@ -1,16 +1,12 @@
 criaCartao(
-    // 'Conhecimentos Gerais: Medicina',
+    'Conhecimentos Gerais: Medicina',
     '1. Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?
 a) Tem entre 2 a 4 litros. São retirados 450 mililitros
 b) Tem entre 4 a 6 litros. São retirados 450 mililitros
 c) Tem 10 litros. São retirados 2 litros
 d) Tem 7 litros. São retirados 1,5 litros
 e) Tem 0,5 litros. São retirados 0,5 litros',
-    'Alternativa b: Entre 4 a 6 litros. São retirados 450 mililitros.
-
-A quantidade de sangue varia de pessoa para pessoa. O volume de sangue é entre 7% e 8% o peso corporal. Assim, um adulto com 50 e 80 quilos, pode ter entre 4 e 6 litros de sangue, respectivamente.
-
-Portanto, 4 a 6 litros é a alternativa que compreende a quantidade mais próxima de adultos com pesos diferentes.'
+    'Alternativa b: Entre 4 a 6 litros. São retirados 450 mililitros.'
 )
 
 criaCartao(
