@@ -1,33 +1,27 @@
 criaCartao(
     'Teologia',
     'Quem foi Jesus?',
-    'Jesus de Nazaré, também chamado Jesus Cristo, foi um pregador e líder religioso judeu '
-    )
-
-criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
+    'Jesus Cristo foi um profeta judaico do século I d.C. conhecido por ter trazido uma mensagem de libertação de Israel.'
     )
 criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
+    'Matemática',
+    'Quanto é 30 x 30?',
+    '900'
     )
 criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'marechal Manuel Deodoro da Fonseca'
     )
 criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
+    'Conhecimentos Gerais',
+    'Qual é a décima primiera letra do alfabeto?',
+    'É a letra "K" '
     )
 criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
+    'História',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
     )
 criaCartao(
     'Teologia',
