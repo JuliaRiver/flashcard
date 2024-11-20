@@ -23,23 +23,3 @@ criaCartao(
     'Quem descobriu o Brasil?',
     'Pedro Álvares Cabral'
     )
-criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
-    )
-criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
-    )
-criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
-    )
-criaCartao(
-    'Teologia',
-    'Quem foi Jesus?',
-    'Messias de Deus'
-    )
